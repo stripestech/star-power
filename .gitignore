@@ -1,0 +1,11 @@
+*~
+.DS_Store
+
+# Local audio files (not distributed)
+tunes/
+
+# Arduino build artifacts
+build/
+*.hex
+*.elf
+*.bin
